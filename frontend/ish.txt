@@ -1,0 +1,49 @@
+o
+
+o
+
+WHAT WE DO
+
+Digital Learning
+
+
+Product Engineering
+. Web & mobile applications using
+React (Vite), Node.js/Express,
+Python (Flask/Django),
+PHP/Laravel.
+· API design, integrations, secure
+backends (MySQL/MongoDB), and
+cloud-ready deployments.
+
+Consulting & Enablement
+· Architecture reviews,
+DevOps (CI/CD, GitHub
+Actions), code quality, and
+team upskilling.
+. Roadmapping and co-
+building with client teams.
+
+Social Media & Content
+Solutions
+At Ish Connect, we help brands,
+schools, and communities leverage
+social media and digital content to
+connect with their audiences
+effectively.
+
+Ish Connect is a Rwanda-born software development studio specializing in building reliable, scalable, and human-centered digital solutions. As a developer, we combine modern technologies with agile methods to deliver products that are not only functional but also secure and user-friendly.
+
+Founded Ish Connect; built early digital tools for schools and SMEs; established full-stack development, content, and payment expertise.
+
+Launched Senior Three Science Lessons MVP; integrated Mobile Money; developed quizzes, timers, and real- time student-teacher solutions.
+
+Expanded to School LMS, prototyped Kigali Parking Management, and launched Internship Management Platform.
+
+Full-stack partner across education, fintech, and civic tech, delivering fast, secure, and scalable solutions.
+
+
+
+. To be a leading force in shaping Africa's digital future where every school and small business can thrive using modern, secure, and affordable technology.
+. Productize the education stack and payments toolkit; expand regionally through partners.
+. Al copilots for code, content, and support; more async collaboration; composable, APIfirst systems; privacy-by-design and ethical Al expectations.
