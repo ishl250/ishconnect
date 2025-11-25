@@ -738,7 +738,7 @@ const Contact = () => {
   const [formData, setFormData] = useState({ name: '', email: '', message: '' });
   const [status, setStatus] = useState('');
   const [ref, isInView] = useScrollReveal();
-
+const API_URL = import.meta.env.VITE_API_URL;
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
@@ -748,7 +748,7 @@ const Contact = () => {
   setStatus("Sending...");
 
   try {
-    const res = await fetch("http://localhost:5000/contact", {
+    const res = await fetch(`${API_URL}/contact`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(formData),
